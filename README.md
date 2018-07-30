@@ -21,3 +21,9 @@ Untuk penggunaannya, silahkan mengacu pada dokumentasi php-markdown.
 use Michelf\Markdown;
 $my_html = Markdown::defaultTransform($my_text);
 ```
+
+## Lisensi
+
+Dikarenakan module ini adalah penggunaan langsung class 
+[php-markdown](https://github.com/michelf/php-markdown), silahkan
+mengacu pada class tersebut untuk lisensi.
